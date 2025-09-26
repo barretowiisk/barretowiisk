@@ -1,5 +1,5 @@
-# 🎉 Olá Mundo! Eu sou o Barretowiisk. 👨‍💻 <br />🎉 Hello World! I'm Barretowiisk. 👨‍💻
-**`Gestor | Desenvolvedor | Infraestrutura`** <br /> **`Manager | Developer | Infrastructure`**
+# 🎉 Olá Mundo! Eu sou o Barretowiisk. 👨‍💻
+**`Gestor | Desenvolvedor | Infraestrutura`**
 
 Minha jornada na tecnologia iniciou ainda na escola, quando um amigo me apresentou o Windows XP. Desde então, minha curiosidade por computação evoluiu para uma paixão que me levou a me tornar **Especialista**, **Educador** e **Empreendedor**.
 
