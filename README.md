@@ -1,6 +1,6 @@
 <!-- header -->
 # 🎉 Olá Mundo! Eu sou o Barretowiisk. 👨‍💻
-**`Gestor | Desenvolvedor | Infraestrutura`**
+**`Empreendedor | Analista de Infraestrutura | Entusiasta da Programação`**
 
 <!-- social -->
 <p align="left">
